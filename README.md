@@ -53,3 +53,7 @@ Details zu Fehlern stehen in `~/Movies/DaVinci Downloads/yt-dlp.log`.
 
 Nur Inhalte laden, für die du die Rechte hast oder deren Download erlaubt ist, und die Nutzungsbedingungen
 der Plattformen beachten. Nutzung auf eigene Verantwortung, ohne Gewähr.
+
+## Lizenz
+
+[MIT](LICENSE). Die Programme yt-dlp, ffmpeg und deno, die der Installer lädt, haben jeweils ihre eigene Lizenz.
